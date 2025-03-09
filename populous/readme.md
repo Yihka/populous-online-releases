@@ -1,0 +1,1 @@
+Please buy the game from an official store if you haven't already!
