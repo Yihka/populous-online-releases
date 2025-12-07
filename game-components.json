@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2025-12-07T13:37:37.192Z",
+  "components": {
+    "populous": {
+      "sha256": "8c5a8bb1f48df7cdc3b6b823b739ba713c83e1ff19b18fa95f416162b5a94ab1",
+      "url": "https://github.com/Yihka/populous-online-releases/raw/main/populous/populous.zip?download=",
+      "size": 120966065,
+      "files": [
+        "poptb.exe"
+      ]
+    },
+    "ikani": {
+      "sha256": "f6533a2a44c3ef9a215cdfcef0cf76f13b52f974a79aa98fdd70d0b0449410eb",
+      "url": "https://github.com/Yihka/populous-online-releases/raw/main/ikani/ikani.zip?download=",
+      "size": 3305024,
+      "files": [
+        "popTBM.exe",
+        "ikani.dll"
+      ]
+    },
+    "ddraw": {
+      "sha256": "5345095ab75700b453750c071467fe646e9dad87d437d4c75a4281443efaff3b",
+      "url": "https://github.com/Yihka/populous-online-releases/raw/main/ddraw/ddraw.zip?download=",
+      "size": 106913,
+      "files": [
+        "ddraw.dll"
+      ]
+    },
+    "populousOnlineJson": {
+      "sha256": "4916011a7f97b26f439e4e6ffcf3ad81e4910ed0642b80492c6e438ebeaed59d",
+      "url": "https://github.com/Yihka/populous-online-releases/raw/main/ikani/PopulousOnlineJson.zip?download=",
+      "size": 246,
+      "files": [
+        "PopulousOnline.json"
+      ]
+    }
+  }
+}
