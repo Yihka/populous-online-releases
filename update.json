@@ -1,11 +1,11 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjdyaFB5N1VKcFJqbWZBRE51K0diaFltWkQyZ1NWdzVMb0xrbmc1K2t3eS9IdFFlSUx5Ukd3RmpZZlRIQzFsdnpMcjNoUDZuMHlBeU9BOVRNU0JNSUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjIwMTIzCWZpbGU6UG9wdWxvdXMgT25saW5lXzAuNS40X3g2NC1zZXR1cC5leGUKc0N5U3J6Q0FIRGdCKy9mSXkyVmV6d2dZOEpBZEl6b3VJajErVlN4cUFVNXAxY3Y4VHVReGZqejY3R1pkS1hqYVJ3QXlQZTdpRWc1N0ZHbnpkREF2Q1E9PQo=",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjJxVjFtbDNQenNBeTRNeW44U2NtUUlKcUc2SDl1bkxIeEFCVDZFdkZJMFVKbWFXV1o3SE5ySFNqcXVwSzRTd29SYmR2bTViRU4ybGZzdXZUQURteUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzA4NTE2CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuNS42X3g2NC1zZXR1cC5leGUKYjF0WURIckVKcldVWVlPdlJpbDUycmNlWDVWRVVaSFErVWVTZ001YmQxdzFiN21ERmtwc3NmN1drTjRlYm5abHhLZXBSVzMvSVZ3eTAvcklRUjdpQnc9PQo=",
                                              "url":  "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2025-12-08T18:55:23Z",
-    "version":  "0.5.4",
-    "notes":  "Fix constant issue and test game not loading correct map"
+    "pub_date":  "2025-12-09T19:28:36Z",
+    "version":  "0.5.6",
+    "notes":  "Bug fixes and improvements"
 }
