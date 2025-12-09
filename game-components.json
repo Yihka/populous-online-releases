@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2025-12-09T19:09:14.537Z",
+  "lastUpdated": "2025-12-09T19:45:31.272Z",
   "components": {
     "populous": {
       "sha256": "8c5a8bb1f48df7cdc3b6b823b739ba713c83e1ff19b18fa95f416162b5a94ab1",
@@ -11,9 +11,9 @@
       ]
     },
     "ikani": {
-      "sha256": "651720ab839ed7aca0183f1fa1da8da8acbd37ff7b6e674673e3c31cdcf448e2",
+      "sha256": "007852dd15ae51c60e883e024b6b22e94108462e8206867bc969d7d8fb0fb6de",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/ikani/ikani.zip?download=",
-      "size": 3304579,
+      "size": 3301790,
       "files": [
         "popTBM.exe",
         "ikani.dll"
