@@ -28,6 +28,10 @@ const components = {
     populousOnlineJson: {
         path: 'ikani/PopulousOnlineJson.zip',
         files: ['PopulousOnline.json']
+    },
+    populousOriginalFiles: {
+        path: 'populous/populous-original-files.zip',
+        files: ['populous-original-files.zip']
     }
 };
 
