@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjhhYzc3b3pLQ0RkZVZOb2lMQzhhNWp1QmVqdkc4WEpVOHcvbkJXQ2lNWHJDLzNxcUF3U1ZMWWpTR0cvUXZGOUIyaytLMHQrN0VYZEh1SVJsNFpQQ0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDUyMjE2CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTQuMF94NjQtc2V0dXAuZXhlCnczNXcxQUdyQ2g1YmxtV0ZVN0dCYjlCWGRKUkpTUjVDRjcwd1plZUlUcTFQZDlqSW8rWFRiMHhSREdEZ3dZVjJsbnh1ZnRnYlozc01KQTR5YWduWUNnPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MnhBNVlmaUE2N2FsRzNtcURDM055U3gwVzI1UGJUdEFkU2pGZXJ2RHgvcEhjTlJOek5GRTFkSFBrd3hQNjBJL05EM2g1LzZJSkZwTXdrNU1lNWpCV0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MTI4MjgwCWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMF94NjQtc2V0dXAuZXhlClRRSHVBSGpFREkrTTU0MVlDZHJJdUZFb1lZY0c4dkhkbGxCUmVXUjM5VGxMWXlvajZKcGRlMFE2SDdRbTl1TFdrYmo0MmpVZ1pHcW1XUkRBZitMK0RnPT0K",
                                              "url":  "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-01-10T13:36:56Z",
-    "version":  "0.14.0",
+    "pub_date":  "2026-01-11T10:44:40Z",
+    "version":  "0.15.0",
     "notes":  "Bug fixes and improvements"
 }
