@@ -1,10 +1,10 @@
 {
-  "version": "0.15.3",
-  "notes": "Merge pull request #4 from sidneyprins/feature/auto-build-windows-release\n\nAuto-build & publish a Windows release when frontend changes merge to main",
-  "pub_date": "2026-06-23T16:17:48Z",
+  "version": "0.15.4",
+  "notes": "Merge pull request #1 from sidneyprins/bug/custom-game-not-visible-until-relog\n\nFix: custom games not visible to other players until they relog",
+  "pub_date": "2026-06-23T18:39:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MncvU0tTVklHTDZrWjB3QVJrcXFWSTkvRmdaTVlWVEdCbEZXWG1aalN6b1FURmVlYXNZOFV2V0tmYkNxZTlLZVA3U2U3Y002dk5zWjRvRXJmTER5M3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjMxNDY3CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuM194NjQtc2V0dXAuZXhlCjVrV3Uwb0VPN3JveUpDcW82TlJ4YkQwOFYzV0ZmdURJSTREdWNWbHRINVNnN3NITTFOY2syNXp0d1FtazZRb1pCYXFIV0dybkJqZERkMU1jR3U1ZEJRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5Mnk1Um1acndxY1huMjZyQ1NmMDhYL3owNENWMEx4ZFZDTUNTZWQwZTdic2M5MG5zakRMczN3Q1FwUjZPbUJCNVA5b29UaVVGekEvWm9ldGIzenFEU1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjM5OTQzCWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuNF94NjQtc2V0dXAuZXhlCmFHWStOT3JzRWNqMmFGRnRBWnUyUEVmSGF3bnRsUVdpbGgvd0liNk5HT3F6NWU0b0NCb2E5RmhTZDl6WnBheEV2ZytvMDJzU0FWYko5VHM4SHZtQUR3PT0K",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
