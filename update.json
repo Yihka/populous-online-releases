@@ -1,10 +1,10 @@
 {
-  "version": "0.15.6",
-  "notes": "Merge pull request #8 from sidneyprins/bug/local-fixes-batch\n\nfix(desktop): batch — stuck map-download toast, map-switch download race, chat presence leave",
-  "pub_date": "2026-06-28T09:23:06Z",
+  "version": "0.15.7",
+  "notes": "Merge pull request #9 from sidneyprins/bug/realtime-desync-after-launch\n\ndiag(desktop): realtime connection/subscription timeline (Phase 0 — post-launch desync)",
+  "pub_date": "2026-06-28T10:04:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MitDUWRFOFlNM0pVUHZUVTFaa1pocEs3eStoZmpnQmtjRFNmc3Z2MC9Jb0pydVkrYnM4MHdPUWJMbnFRK3pUNXg4Ui9yTTgwSk1zWHFpdThhRE5jVWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjM4NTg1CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuNl94NjQtc2V0dXAuZXhlCmVCSGZHVG5paGtKQ216dlFBWWNaRDZXRVFsUEI4bVVKTXFCeW5EZmVYZldaRHNMdk5MQzlHaFZWcEx5Y1dVZHFLMW1UYlQ0T3JOSGRDaENKaWpsdEF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MndZTjZIYjVxbGNUWTJIcGdGSDAzS0UrU2d2ZVk2dHJneWJGa1BQNjhKZWxLZjhRUncwTHdnZVg5ajZpZlNhbnJ2UkcwZDkzdHhFcGg5VnNpclBBV2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjQxMDc5CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuN194NjQtc2V0dXAuZXhlClpYTmg5a0M3RFRVOW0yMXB3dkZUQzllLzVKQlFKUmJWQkl0TUZNbE5DUmV6bUd5elRSQzRSemh1dUpxS29pS1Z1eTdkbmFjVmhQN1NCanhBSWsxUUFRPT0K",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
