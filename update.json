@@ -1,10 +1,10 @@
 {
-  "version": "0.15.7",
-  "notes": "Merge pull request #9 from sidneyprins/bug/realtime-desync-after-launch\n\ndiag(desktop): realtime connection/subscription timeline (Phase 0 — post-launch desync)",
-  "pub_date": "2026-06-28T10:04:41Z",
+  "version": "0.15.8",
+  "notes": "Merge pull request #10 from sidneyprins/bug/host-launches-into-singleplayer\n\nfix: host game launches alone — make game-file updater self-healing",
+  "pub_date": "2026-06-30T18:14:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MndZTjZIYjVxbGNUWTJIcGdGSDAzS0UrU2d2ZVk2dHJneWJGa1BQNjhKZWxLZjhRUncwTHdnZVg5ajZpZlNhbnJ2UkcwZDkzdHhFcGg5VnNpclBBV2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjQxMDc5CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuN194NjQtc2V0dXAuZXhlClpYTmg5a0M3RFRVOW0yMXB3dkZUQzllLzVKQlFKUmJWQkl0TUZNbE5DUmV6bUd5elRSQzRSemh1dUpxS29pS1Z1eTdkbmFjVmhQN1NCanhBSWsxUUFRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MndJUGNJUW85ckkrM3E3Z0xqcGpCS2lHSjRPM0pVT29hekdzVWFzNlgwdjBiYmRVT0F2OHRMVjlVQ0VINy9rT1UxdStGRlNqTG1zam9Ebnc2T0ptY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQzMjY5CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuOF94NjQtc2V0dXAuZXhlClp2b1VWYjhyZVdWd0QwU1hwQTNJaWRSNUFtOEhoT1VQQXk2MUMvWDRvSFRwY2tIbDlFaVY2SGdKUGVFZllpdGQ4VWNzdm5IRy9NejJqMEN0UjJwTkJRPT0K",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
