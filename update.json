@@ -1,10 +1,10 @@
 {
-  "version": "0.15.8",
-  "notes": "Merge pull request #10 from sidneyprins/bug/host-launches-into-singleplayer\n\nfix: host game launches alone — make game-file updater self-healing",
-  "pub_date": "2026-06-30T18:14:33Z",
+  "version": "0.15.9",
+  "notes": "Merge pull request #11 from sidneyprins/feature/robust-realtime-connection\n\nRobust realtime connection: reconcile on every reconnect, native watchdog, auth recovery",
+  "pub_date": "2026-07-03T13:19:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MndJUGNJUW85ckkrM3E3Z0xqcGpCS2lHSjRPM0pVT29hekdzVWFzNlgwdjBiYmRVT0F2OHRMVjlVQ0VINy9rT1UxdStGRlNqTG1zam9Ebnc2T0ptY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQzMjY5CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuOF94NjQtc2V0dXAuZXhlClp2b1VWYjhyZVdWd0QwU1hwQTNJaWRSNUFtOEhoT1VQQXk2MUMvWDRvSFRwY2tIbDlFaVY2SGdKUGVFZllpdGQ4VWNzdm5IRy9NejJqMEN0UjJwTkJRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjB6UmRyZGpLWm8vYzRWck05ZVEvSmh1Nm95b3Z0clBqNTYzR2taNkNvcWZvdzdldDJBUHpLMlp4Wk9GbGlSOG1DNjBVcVJLQXhIUEY3RnBob1Z2L3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDg0NzY1CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuOV94NjQtc2V0dXAuZXhlCmQ2V0JXbnFxa3lQd3pSM3pQWjl0QlhaemV3cUorcjgwaUVoTlkvc3pDOXQ3RDZrMnZiUUJtOExNZTc1cFliRXJZSWNETy9PdEp1bSs4ZE5EZTNpd0N3PT0K",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
