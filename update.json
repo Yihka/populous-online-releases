@@ -1,10 +1,10 @@
 {
-  "version": "0.15.9",
-  "notes": "Merge pull request #11 from sidneyprins/feature/robust-realtime-connection\n\nRobust realtime connection: reconcile on every reconnect, native watchdog, auth recovery",
-  "pub_date": "2026-07-03T13:19:29Z",
+  "version": "0.15.10",
+  "notes": "Merge pull request #12 from sidneyprins/feature/multi-client-test-harness\n\nLocal multi-client matchmaker test harness (4 clients, fake game)",
+  "pub_date": "2026-07-06T11:38:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjB6UmRyZGpLWm8vYzRWck05ZVEvSmh1Nm95b3Z0clBqNTYzR2taNkNvcWZvdzdldDJBUHpLMlp4Wk9GbGlSOG1DNjBVcVJLQXhIUEY3RnBob1Z2L3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDg0NzY1CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuOV94NjQtc2V0dXAuZXhlCmQ2V0JXbnFxa3lQd3pSM3pQWjl0QlhaemV3cUorcjgwaUVoTlkvc3pDOXQ3RDZrMnZiUUJtOExNZTc1cFliRXJZSWNETy9PdEp1bSs4ZE5EZTNpd0N3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjRDb3FFSlZ0UXZPRVNzT0pJakgxWGxWMzZWRGpacXE4Q2gxdW54dWJRZER1QjNyblFCMVp0RTlUYitIVDVTRHZrZlpEZzFpaG9oM3pJOTZ6bUlKMEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzM3OTA5CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTBfeDY0LXNldHVwLmV4ZQpkK2VNSFBzeVp4eGo3WmFQT09SYVlWenVVWkRsNlBraVJ0SGYzeFpJWm9ULytmVmlpYVlGc0hsSms2UFRwTVRrcHpiQmJXWkg3UU5QcWMyMkRCcjZEQT09Cg==",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
