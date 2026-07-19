@@ -1,10 +1,10 @@
 {
-  "version": "0.15.10",
-  "notes": "Merge pull request #12 from sidneyprins/feature/multi-client-test-harness\n\nLocal multi-client matchmaker test harness (4 clients, fake game)",
-  "pub_date": "2026-07-06T11:38:30Z",
+  "version": "0.15.11",
+  "notes": "Merge pull request #15 from sidneyprins/bug/other-player-profile-missing-promotion-progress\n\nFix: other players' profiles show promotion progress (not \"Max Rank\")",
+  "pub_date": "2026-07-19T07:39:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjRDb3FFSlZ0UXZPRVNzT0pJakgxWGxWMzZWRGpacXE4Q2gxdW54dWJRZER1QjNyblFCMVp0RTlUYitIVDVTRHZrZlpEZzFpaG9oM3pJOTZ6bUlKMEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzM3OTA5CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTBfeDY0LXNldHVwLmV4ZQpkK2VNSFBzeVp4eGo3WmFQT09SYVlWenVVWkRsNlBraVJ0SGYzeFpJWm9ULytmVmlpYVlGc0hsSms2UFRwTVRrcHpiQmJXWkg3UU5QcWMyMkRCcjZEQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5Mi9INStjeU4wc1dBRmkyNFcxa2xFVVpDaUpjY1VxaDR6NlpKL1FuVlpwTlB5Tmo5amV6YWtrMGpKU01YTVg2NWtpYytOWW93QTYyNGNZMUwxVXEvTEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ2Nzk0CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTFfeDY0LXNldHVwLmV4ZQpyWHM4a1Y5eUYzRjVuOFBrU1R3MFoxelV5VlgvdUlGMS8wcTFNMTV0Vk1LTnVjYStHNFcyVklSb3JtdCtHVHpraUR5b1hmMDZTSkp3bHFKdlVyM0JEZz09Cg==",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
