@@ -1,10 +1,10 @@
 {
-  "version": "0.15.11",
-  "notes": "Merge pull request #15 from sidneyprins/bug/other-player-profile-missing-promotion-progress\n\nFix: other players' profiles show promotion progress (not \"Max Rank\")",
-  "pub_date": "2026-07-19T07:39:55Z",
+  "version": "0.15.12",
+  "notes": "Merge pull request #14 from sidneyprins/feature/mission-preview-generation\n\nMissions: auto-generate preview images from the level files (local dev only)",
+  "pub_date": "2026-07-19T08:24:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5Mi9INStjeU4wc1dBRmkyNFcxa2xFVVpDaUpjY1VxaDR6NlpKL1FuVlpwTlB5Tmo5amV6YWtrMGpKU01YTVg2NWtpYytOWW93QTYyNGNZMUwxVXEvTEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ2Nzk0CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTFfeDY0LXNldHVwLmV4ZQpyWHM4a1Y5eUYzRjVuOFBrU1R3MFoxelV5VlgvdUlGMS8wcTFNMTV0Vk1LTnVjYStHNFcyVklSb3JtdCtHVHpraUR5b1hmMDZTSkp3bHFKdlVyM0JEZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MisrbGxtemRKSmFvVWtxVUdPeFBtb0VWZlMyQ0owaWYzTjZVbUZsZ2RKYjhkcDZ2YzJBaTYveTdMZDNpb05pRm11THYxNWhrZFJ4YTREWVY3YXdrYWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ5NDk3CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTJfeDY0LXNldHVwLmV4ZQpOTGJidGllOHRXWld5Q1QzYllyVHR4Qys1STZTODZjQmV3Ullsb2xjQ05WdDg2QXFVUUxIR1hVdVl2VERHLzBkQ21NYVlhRE1ETmFhNG5LTmROUG5CQT09Cg==",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
