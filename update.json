@@ -1,10 +1,10 @@
 {
-  "version": "0.15.12",
-  "notes": "Merge pull request #14 from sidneyprins/feature/mission-preview-generation\n\nMissions: auto-generate preview images from the level files (local dev only)",
-  "pub_date": "2026-07-19T08:24:58Z",
+  "version": "0.15.13",
+  "notes": "Merge pull request #16 from sidneyprins/feature/game-accurate-map-preview-renderer\n\nGame-accurate map previews (side-by-side with the current ones)",
+  "pub_date": "2026-07-19T13:25:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MisrbGxtemRKSmFvVWtxVUdPeFBtb0VWZlMyQ0owaWYzTjZVbUZsZ2RKYjhkcDZ2YzJBaTYveTdMZDNpb05pRm11THYxNWhrZFJ4YTREWVY3YXdrYWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ5NDk3CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTJfeDY0LXNldHVwLmV4ZQpOTGJidGllOHRXWld5Q1QzYllyVHR4Qys1STZTODZjQmV3Ullsb2xjQ05WdDg2QXFVUUxIR1hVdVl2VERHLzBkQ21NYVlhRE1ETmFhNG5LTmROUG5CQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjVYYnB3N0lLL011bVQzNHBlWk8yaXhMZFJUenJhZWdWYXEvVzVwbDZRd1RLZ290Tnc2c1Jha1pPY1lCakk5ZXkrRTNsWWtGcG91ZUFuVGE1NDRtVlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDY3NTQwCWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTNfeDY0LXNldHVwLmV4ZQpXdGh5Wlgzb3dKcnNiQloxVkdQb0VGRC93QUQyMjlUWnBHUmlaZHRqdGFwR3JFVUVnbkFDeE1NU01OMjdKQTNGVDliSHZDRUpPak1CaXVLT3hacUpDdz09Cg==",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
