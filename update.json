@@ -1,10 +1,10 @@
 {
-  "version": "0.15.13",
-  "notes": "Merge pull request #16 from sidneyprins/feature/game-accurate-map-preview-renderer\n\nGame-accurate map previews (side-by-side with the current ones)",
-  "pub_date": "2026-07-19T13:25:51Z",
+  "version": "0.15.14",
+  "notes": "Merge pull request #18 from sidneyprins/bug/stale-script-settings-break-multiplayer\n\nfix(desktop): stop stale mission script settings from breaking multiplayer after the Ikani rollback",
+  "pub_date": "2026-09-14T18:10:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjVYYnB3N0lLL011bVQzNHBlWk8yaXhMZFJUenJhZWdWYXEvVzVwbDZRd1RLZ290Tnc2c1Jha1pPY1lCakk5ZXkrRTNsWWtGcG91ZUFuVGE1NDRtVlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDY3NTQwCWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTNfeDY0LXNldHVwLmV4ZQpXdGh5Wlgzb3dKcnNiQloxVkdQb0VGRC93QUQyMjlUWnBHUmlaZHRqdGFwR3JFVUVnbkFDeE1NU01OMjdKQTNGVDliSHZDRUpPak1CaXVLT3hacUpDdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5Mis2bUgzTW96aDIwZW9yRHpxdC9JNEZSUlEwV1BMNFFpbWhGbm0xZlRuNDd6QW14c3VRcmJwaDJ1cHRQU2ZNdnJWS0Vwc0dKdUlFQ1ZPQ1BxQUk2SmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDA5NDMxCWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTRfeDY0LXNldHVwLmV4ZQo2RzFqUnByV0RKNkRXUjV0amJiWkhGMmdueFJuVDUrTUk3SWdJMVB3em1PWkFydGtQTjdtbEg3eVhxc3pIUEdtS1RYZENRNE1vRFRDd3FpQm5DeGVEZz09Cg==",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
