@@ -1,10 +1,10 @@
 {
-  "version": "0.15.15",
-  "notes": "Merge pull request #17 from sidneyprins/feature/robust-2v2-matchmaking\n\nSelf-healing state sync: robust matchmaking, lobbies, launches and lists",
-  "pub_date": "2026-09-28T18:02:04Z",
+  "version": "0.15.16",
+  "notes": "Merge pull request #19 from sidneyprins/bug/games-page-map-image-small-window\n\nFix: map image on the Games page shrinks with the window",
+  "pub_date": "2026-09-28T19:11:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MndzNlM5TVlLLzk5MFNpblJWZk9mWjd3T2Y3bkdyaHdNVk1DbTlwbTZjNjd5QkVlcHZ0c1NMVTBNT09SbnBxUEhJbXhOZC8wM1kxdElaaERCMFFrRndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjE4NDg0CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTVfeDY0LXNldHVwLmV4ZQo0ZXRaR3RwQlFwTkc3ejU3N0NLSWpHOUNzUTZTZ0luMGhXdXZuOHpwUzVEc0g3ekdrZklFdkR4RmRiVUJreFA1VThtR2JibEE1RjY5S0JSS3c5SkZDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjY3VXJublRHUUh2dTNkdWE5UDJRS3JmTDAwTzRKaGFkd2xPR3RWbWJyVjdlcFhOcDhydzhMUE53aCtEcFBtbkZTQStvYkNKNXhMQ1ZqMUUvRVdKendFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjIyNjk1CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTZfeDY0LXNldHVwLmV4ZQpIVk1TRW5CRzZlYmVQSW1ac1huTW5KVlB2eHlpdCtBVkV5cFBhVTRaMG41V3g4NFlLYktsb0RTWUJDRHlRbHVJaVNwL0gyL2VUWnpoRDBkMjVHbnpBdz09Cg==",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
