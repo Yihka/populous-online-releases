@@ -1,10 +1,10 @@
 {
-  "version": "0.15.16",
-  "notes": "Merge pull request #19 from sidneyprins/bug/games-page-map-image-small-window\n\nFix: map image on the Games page shrinks with the window",
-  "pub_date": "2026-09-28T19:11:36Z",
+  "version": "0.15.17",
+  "notes": "Merge pull request #20 from sidneyprins/bug/close-button-does-not-close\n\nFix: the close button closes the app again",
+  "pub_date": "2026-09-28T20:17:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjY3VXJublRHUUh2dTNkdWE5UDJRS3JmTDAwTzRKaGFkd2xPR3RWbWJyVjdlcFhOcDhydzhMUE53aCtEcFBtbkZTQStvYkNKNXhMQ1ZqMUUvRVdKendFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjIyNjk1CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTZfeDY0LXNldHVwLmV4ZQpIVk1TRW5CRzZlYmVQSW1ac1huTW5KVlB2eHlpdCtBVkV5cFBhVTRaMG41V3g4NFlLYktsb0RTWUJDRHlRbHVJaVNwL0gyL2VUWnpoRDBkMjVHbnpBdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL1owMVg1V1R5MjhaOSs5VUgvR05CK2dBSms0UzZYM0M5RmptV2pDZWVqRGlWZ3FPTDM5NVp2VklGRTV1V1NRbFFleEt3dnQ4ZjFCME5zWE41V29reFpjMk1HTFdCYkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjI2NjY2CWZpbGU6UG9wdWxvdXMgT25saW5lXzAuMTUuMTdfeDY0LXNldHVwLmV4ZQpYNkdMYU80bW9IN0NVWU5wOGhCTmdYUitOQzB2MEhJaFZLa2VZRjBUSElsT0toZzVoRi9zUm5YZG5hRDN2VDBETkxlZ0hjcFg5d2ozNUtIazA2NnJDQT09Cg==",
       "url": "https://github.com/Yihka/populous-online-releases/raw/main/releases/Populous%20Online_x64-setup.exe"
     }
   }
